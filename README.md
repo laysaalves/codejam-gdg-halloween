@@ -8,9 +8,21 @@ Plataforma de gamificação para o **DevFest GDG Aracaju**. Participantes coleta
 
 ## Screenshots
 
+> **Discussão em aberto:** temos dois proposals de design. Comente na PR qual você prefere ou sugira melhorias antes de fazermos o merge.
+
+### Opção A — Design atual (dark + paleta GDG)
+
 | Entrada | Panela | Badges | Admin |
 |---|---|---|---|
 | ![Home](.github/screenshots/screenshot-home.png) | ![App](.github/screenshots/screenshot-app.png) | ![Badges](.github/screenshots/screenshot-badges.png) | ![Admin](.github/screenshots/screenshot-admin.png) |
+
+### Opção B — Design com arte GDG Aracaju (proposta)
+
+Incorpora a arte oficial da comunidade como hero, faixa das 4 colunas coloridas em todas as telas e logo de colunas em miniatura no header.
+
+| Entrada | Panela | Badges | Coleta | Admin |
+|---|---|---|---|---|
+| ![Home v2](.github/screenshots/v2-home.png) | ![App v2](.github/screenshots/v2-app.png) | ![Badges v2](.github/screenshots/v2-badges.png) | ![Redeem v2](.github/screenshots/v2-redeem.png) | ![Admin v2](.github/screenshots/v2-admin.png) |
 
 ---
 
